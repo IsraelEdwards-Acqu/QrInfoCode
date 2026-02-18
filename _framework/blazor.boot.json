@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "QR-InfoCode",
   "resources": {
-    "hash": "sha256-thTwj4T3hYM0VCCGbXZkk5k66LGyTUtFxmh35yE9IFE=",
+    "hash": "sha256-zwROpgsk5ans+r0lxBI/O4jBhLYWxinJ2BTEYsueSLc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-2i44rw0w4s7NM66Uq7RTG6s21jbKfy3bOb5EvC7+Lg8="
     },
@@ -59,7 +59,7 @@
       "System.Threading.wasm": "sha256-l5XpIoa2lwtOPt1p4IEBdJ8SrCCJWAveGmP0Ew5UqBg=",
       "netstandard.wasm": "sha256-69sES0cL7Q0VqkoBJ4jGIqB3he4meLMKbJYeFCb9YO8=",
       "System.Private.CoreLib.wasm": "sha256-02LE5uzc7EsX4WXK1N3iIWEBlD1TQkVq0shwM+Kkd1I=",
-      "QR-InfoCode.wasm": "sha256-ElJZBI3oY0qMnnj6WZS8iHjQg8F777g6iXd4urzgOM4="
+      "QR-InfoCode.wasm": "sha256-SC9NoauVbft9dSvQoEzI6IVvmT+jOAgB+WOFVT57ngc="
     }
   },
   "cacheBootResources": true,
